@@ -1,0 +1,84 @@
+{
+  "name": "FINAL FAMILY",
+  "short_name": "FINAL FAMILY",
+  "id": "com.chon_phi_Games.final_family",
+  "description": "『FINAL FAMILY』は、家族の絆を取り戻すための壮大な冒険を描くゲームです。プレイヤーは主人公のロビンとその家族、妹のベレーネ、母のマーチェリー、父のピーグランと共に、魔王「シルリンダ」のアジトに潜入し、彼との決戦を繰り広げます。\n\nこのゲームでは、家族の絆をテーマに、ストーリーの進行やキャラクターの発展が重要な要素となります。プレイヤーは家族の結束を強めながら、Wi-Fiのクリスタルを回収するためにアジトを探索します。アジト内にはさまざまな障害や魔物が待ち受けていますが、パズルや謎解きはなく、物語の進行やキャラクターとの対話を通じて進めていきます。\n\n家族のメンバーと共に、アジト内の各エリアを探索し、クリスタルを集めていきます。探索の過程で家族の絆が深まり、それぞれのキャラクターの特性やストーリーが明らかになります。プレイヤーは彼らとの絆を築きながら、アジトの最深部で待ち受ける魔王「シルリンダ」との壮絶な戦いに挑みます。\n\n主人公のロビンを中心に、ベレーネ、マーチェリー、ピーグランという家族の個性豊かなキャラクターたちが登場します。彼らはそれぞれ独自のスキルや特性を持ち、物語の進行に応じて成長していきます。プレイヤーは家族の絆を強化し、彼らの力を最大限に引き出して魔王に立ち向かいます。\n\n『FINAL FAMILY』は、家族の絆と勇気をテーマにした壮大な冒険が特徴です。パズルや謎解きの要素はありませんが、キャラクターの成長と物語の進展によってプレイヤーは感動的な体験を味わうことでしょう。魔王を倒し、家族の未来を守るために、家族全員が力を合わせて立ち上がりましょう。",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "e14f5ad2eccfac8c1f1a4ee0c40482e209debf023bd461d66c87a663ab81c4d9-ff_icon.png",
+        "sizes": "20x20"
+      },{
+        "src": "e14f5ad2eccfac8c1f1a4ee0c40482e209debf023bd461d66c87a663ab81c4d9-ff_icon.png",
+        "sizes": "29x29"
+      },{
+        "src": "e14f5ad2eccfac8c1f1a4ee0c40482e209debf023bd461d66c87a663ab81c4d9-ff_icon.png",
+        "sizes": "36x36"
+      },{
+        "src": "e14f5ad2eccfac8c1f1a4ee0c40482e209debf023bd461d66c87a663ab81c4d9-ff_icon.png",
+        "sizes": "40x40"
+      },{
+        "src": "e14f5ad2eccfac8c1f1a4ee0c40482e209debf023bd461d66c87a663ab81c4d9-ff_icon.png",
+        "sizes": "48x48"
+      },{
+        "src": "e14f5ad2eccfac8c1f1a4ee0c40482e209debf023bd461d66c87a663ab81c4d9-ff_icon.png",
+        "sizes": "50x50"
+      },{
+        "src": "e14f5ad2eccfac8c1f1a4ee0c40482e209debf023bd461d66c87a663ab81c4d9-ff_icon.png",
+        "sizes": "57x57"
+      },{
+        "src": "e14f5ad2eccfac8c1f1a4ee0c40482e209debf023bd461d66c87a663ab81c4d9-ff_icon.png",
+        "sizes": "58x58"
+      },{
+        "src": "e14f5ad2eccfac8c1f1a4ee0c40482e209debf023bd461d66c87a663ab81c4d9-ff_icon.png",
+        "sizes": "60x60"
+      },{
+        "src": "e14f5ad2eccfac8c1f1a4ee0c40482e209debf023bd461d66c87a663ab81c4d9-ff_icon.png",
+        "sizes": "72x72"
+      },{
+        "src": "e14f5ad2eccfac8c1f1a4ee0c40482e209debf023bd461d66c87a663ab81c4d9-ff_icon.png",
+        "sizes": "76x76"
+      },{
+        "src": "e14f5ad2eccfac8c1f1a4ee0c40482e209debf023bd461d66c87a663ab81c4d9-ff_icon.png",
+        "sizes": "80x80"
+      },{
+        "src": "e14f5ad2eccfac8c1f1a4ee0c40482e209debf023bd461d66c87a663ab81c4d9-ff_icon.png",
+        "sizes": "87x87"
+      },{
+        "src": "e14f5ad2eccfac8c1f1a4ee0c40482e209debf023bd461d66c87a663ab81c4d9-ff_icon.png",
+        "sizes": "96x96"
+      },{
+        "src": "e14f5ad2eccfac8c1f1a4ee0c40482e209debf023bd461d66c87a663ab81c4d9-ff_icon.png",
+        "sizes": "100x100"
+      },{
+        "src": "e14f5ad2eccfac8c1f1a4ee0c40482e209debf023bd461d66c87a663ab81c4d9-ff_icon.png",
+        "sizes": "114x114"
+      },{
+        "src": "e14f5ad2eccfac8c1f1a4ee0c40482e209debf023bd461d66c87a663ab81c4d9-ff_icon.png",
+        "sizes": "120x120"
+      },{
+        "src": "e14f5ad2eccfac8c1f1a4ee0c40482e209debf023bd461d66c87a663ab81c4d9-ff_icon.png",
+        "sizes": "144x144"
+      },{
+        "src": "e14f5ad2eccfac8c1f1a4ee0c40482e209debf023bd461d66c87a663ab81c4d9-ff_icon.png",
+        "sizes": "152x152"
+      },{
+        "src": "e14f5ad2eccfac8c1f1a4ee0c40482e209debf023bd461d66c87a663ab81c4d9-ff_icon.png",
+        "sizes": "167x167"
+      },{
+        "src": "e14f5ad2eccfac8c1f1a4ee0c40482e209debf023bd461d66c87a663ab81c4d9-ff_icon.png",
+        "sizes": "180x180"
+      },{
+        "src": "e14f5ad2eccfac8c1f1a4ee0c40482e209debf023bd461d66c87a663ab81c4d9-ff_icon.png",
+        "sizes": "192x192"
+      },{
+        "src": "e14f5ad2eccfac8c1f1a4ee0c40482e209debf023bd461d66c87a663ab81c4d9-ff_icon.png",
+        "sizes": "512x512"
+      },{
+        "src": "e14f5ad2eccfac8c1f1a4ee0c40482e209debf023bd461d66c87a663ab81c4d9-ff_icon.png",
+        "sizes": "1024x1024"
+      }]
+}
