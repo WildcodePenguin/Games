@@ -154,7 +154,7 @@ if (isConditionTrue_0) {
 gdjs.copyArray(runtimeScene.getObjects("ShadedDarkJoystick"), gdjs._49_38542_12398_25506_32034Code.GDShadedDarkJoystickObjects1);
 gdjs.copyArray(runtimeScene.getObjects("TargetRoundButton"), gdjs._49_38542_12398_25506_32034Code.GDTargetRoundButtonObjects1);
 gdjs.copyArray(runtimeScene.getObjects("door_zone"), gdjs._49_38542_12398_25506_32034Code.GDdoor_9595zoneObjects1);
-{gdjs.evtTools.sound.playMusicOnChannel(runtimeScene, "norowaretayakata.mp3", 1206, true, 100, 1);
+{gdjs.evtTools.sound.playMusicOnChannel(runtimeScene, "norowaretayakata.mp3", 1206, true, 25, 1);
 }{gdjs.evtTools.camera.hideLayer(runtimeScene, "Layer");
 }{gdjs.evtTools.camera.hideLayer(runtimeScene, "message");
 }{gdjs.evtTools.camera.hideLayer(runtimeScene, "touch");

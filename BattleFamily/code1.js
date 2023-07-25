@@ -649,7 +649,7 @@ gdjs.copyArray(runtimeScene.getObjects("mama"), gdjs._50_38542_12398_25506_32034
 gdjs.copyArray(runtimeScene.getObjects("papa"), gdjs._50_38542_12398_25506_32034Code.GDpapaObjects1);
 gdjs.copyArray(runtimeScene.getObjects("toki"), gdjs._50_38542_12398_25506_32034Code.GDtokiObjects1);
 gdjs.copyArray(runtimeScene.getObjects("yui"), gdjs._50_38542_12398_25506_32034Code.GDyuiObjects1);
-{gdjs.evtTools.sound.playMusicOnChannel(runtimeScene, "PerituneMaterial_Pastorale2_loop.mp3", 1206, true, 100, 1);
+{gdjs.evtTools.sound.playMusicOnChannel(runtimeScene, "PerituneMaterial_Pastorale2_loop.mp3", 1206, true, 25, 1);
 }{for(var i = 0, len = gdjs._50_38542_12398_25506_32034Code.GDyuiObjects1.length ;i < len;++i) {
     gdjs._50_38542_12398_25506_32034Code.GDyuiObjects1[i].setSize(40, 40);
 }
